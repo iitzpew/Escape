@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 865e9acfbbd368b48b09b99d5b712203
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Patrick
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6fee093ab5f52cc468152f86d4fc7340, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
