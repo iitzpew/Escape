@@ -2,11 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StartMeny : MonoBehaviour
+public class EndMenu : MonoBehaviour
 {
-
-    public void StartGame()
+    public void Quit()
     {
-       
+        Application.Quit();
     }
 }
