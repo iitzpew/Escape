@@ -7,5 +7,7 @@ public class EndMenu : MonoBehaviour
     public void Quit()
     {
         Application.Quit();
+
+        Debug.Log("Quit");
     }
 }
