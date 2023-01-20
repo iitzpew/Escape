@@ -309,6 +309,7 @@ RectTransform:
   m_Children:
   - {fileID: 635873514}
   m_Father: {fileID: 1833486336}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -613,7 +614,6 @@ RectTransform:
   m_Children:
   - {fileID: 1180934180}
   - {fileID: 567223630}
-  - {fileID: 702174528}
   m_Father: {fileID: 2008782723}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -736,7 +736,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
