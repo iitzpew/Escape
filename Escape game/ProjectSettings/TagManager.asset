@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PreviusLevel1
   - NextLevel1
+  - Platform
   layers:
   - Default
   - TransparentFX
